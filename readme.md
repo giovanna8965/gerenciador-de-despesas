@@ -22,3 +22,6 @@ Este é um gerenciador de despesas com uma interface gráfica construída em Pyt
 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou adição de novos recursos. 
 
+## Autor
+Giovanna Luisa
+
