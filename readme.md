@@ -1,6 +1,6 @@
 # Gerenciador de Despesas
 
-Este é um gerenciador de despesas com uma interface gráfica construída em Python e Tkinter.
+Este é um gerenciador de despesas com uma interface gráfica construída em Python 
 
 ## Como Usar
 
